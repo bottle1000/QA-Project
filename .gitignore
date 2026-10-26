@@ -6,3 +6,6 @@ target/
 .DS_Store
 .idea/
 *.iml
+!.run/
+.run/*
+!.run/QA_Practice.run.xml

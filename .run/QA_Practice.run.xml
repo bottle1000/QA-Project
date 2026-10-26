@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="QA Practice" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="local.practice.Application" />
+    <module name="qa-practice" />
+    <option name="VM_PARAMETERS" value="-Duser.timezone=Asia/Seoul" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
