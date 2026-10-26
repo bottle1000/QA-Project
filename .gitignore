@@ -1,0 +1,8 @@
+.tools/
+.m2/
+.run/
+data/
+target/
+.DS_Store
+.idea/
+*.iml
